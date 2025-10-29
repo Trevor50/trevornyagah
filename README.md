@@ -1,4 +1,4 @@
-# Cloud & Cybersecurity Engineer Portfolio
+# Cloud & Cybersecurity Engineer
 
 Hi! I’m **Trevor Nyagah**, a Cloud Security Engineer specializing in **Azure, Microsoft 365, Google Cloud, and Cloud Infrastructure Security**.  
 This portfolio demonstrates my practical, hands-on work securing cloud platforms, automating compliance, and strengthening identity, endpoint, and data protection controls across hybrid environments.
