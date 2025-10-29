@@ -9,8 +9,8 @@ This portfolio demonstrates my practical, hands-on work securing cloud platforms
 **Goal:** Become a world-class Cloud Security Engineer capable of designing, implementing, and managing secure, compliant, and automated multi-cloud environments.  
 
 **Current specialization:**
-- ☁️ Cloud Security Engineering (Azure, AWS, GCP)
-- 🔐 Identity, Access, and Endpoint Security (Microsoft Intune, Azure AD, Google Workspace)
-- ⚙️ DevSecOps / Infrastructure as Code (Terraform, GitHub Actions)
-- 🧠 Security Automation, SIEM, and Incident Response (Defender, ELK)
-- 🧩 Threat Modeling & Compliance (CIS, NIST, ISO 27001)
+ ☁️ Cloud Security Engineering (Azure, AWS, GCP)
+ 🔐 Identity, Access, and Endpoint Security (Microsoft Intune, Azure AD, Google Workspace)
+ ⚙️ DevSecOps / Infrastructure as Code (Terraform, GitHub Actions)
+ 🧠 Security Automation, SIEM, and Incident Response (Defender, ELK)
+ 🧩 Threat Modeling & Compliance (CIS, NIST, ISO 27001)
