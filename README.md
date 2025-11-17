@@ -29,10 +29,10 @@ My work focuses on **Identity Security**, **Zero Trust**, **Security Posture Man
 ---
 
 ## 🧪 Current Projects
-- 🔍 Azure Security Audit Toolkit (scripts + templates)  
-- 🛡️ Automated RBAC & Access Review Script  
-- ☁️ Cloud Security Portfolio with real case studies  
-- 🤖 Automation scripts for Azure governance
+- Azure Security Audit Toolkit (scripts + templates)  
+- Automated RBAC & Access Review Script  
+- Cloud Security Portfolio with real case studies  
+- Automation scripts for Azure governance
 
 ---
 
