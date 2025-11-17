@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Trevor Nyagah  
-### 🔐 Azure Security Specialist | ☁️ Cloud Engineer | 🛡️ Identity & Access Hardening
+### Azure Security Specialist | Cloud Engineer | Identity & Access Hardening
 
 I help businesses secure and optimize their **Microsoft Azure environments** using industry-standard cloud security frameworks.  
 My work focuses on **Identity Security**, **Zero Trust**, **Security Posture Management**, and **Cloud Automation**.
@@ -51,4 +51,4 @@ My work focuses on **Identity Security**, **Zero Trust**, **Security Posture Man
 - AI + cloud integration for security monitoring  
 ---
 
-> ⭐ *If you like my work, feel free to star my repositories or reach out for collaborations!*
+>  *If you like my work, feel free to star my repositories or reach out for collaborations!*
